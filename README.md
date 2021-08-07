@@ -1,5 +1,5 @@
-//rban-octo-train
-//simple c ++ calculator 
+simple c ++ calculator 
+
 # include <iostream>
 using namespace std;
 
